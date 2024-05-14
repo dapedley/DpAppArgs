@@ -1,6 +1,6 @@
 ## DpAppArgs - Organises command-line arguments into key/value pairs
 
-Namespace: DpConsoleUtilities
+Namespace: DpUtilities
 
 Nuget Package Name: DpAppArgs
 

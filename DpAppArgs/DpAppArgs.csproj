@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>D A Pedley</Authors>
     <Description>Organises windows program arguments into accesible key/value pairs.</Description>
@@ -12,6 +12,8 @@
     <RepositoryUrl>https://github.com/dapedley/DpAppArgs</RepositoryUrl>
     <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <IncludeSymbols>True</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
   <ItemGroup>
