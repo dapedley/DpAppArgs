@@ -10,10 +10,11 @@
     <Copyright>MIT</Copyright>
     <PackageReadmeFile>DpAppArgs.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/dapedley/DpAppArgs</RepositoryUrl>
-    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <PackageReleaseNotes>Namespace and readme updated</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <IncludeSymbols>True</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
